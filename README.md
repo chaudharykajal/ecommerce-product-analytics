@@ -20,7 +20,7 @@ The project covers the analytical workflow from raw data inspection to business-
 * **Database:** MySQL 8.0
 * **IDE:** MySQL Workbench
 * **Language:** SQL
-* **Version Control:** Git and GitHub (planned)
+* **Version Control:** Git and GitHub 
 
 ## 4. Database Structure
 
